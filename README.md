@@ -1,6 +1,6 @@
 # Python-basic-things
 Basic code with Python
-# File "Family Trees" - Problem Set 6 from Intro to Computer Science, Udacity
+#### File "Family Trees" - Problem Set 6 from Intro to Computer Science, Udacity
 In the lecture, we showed a recursive definition for your ancestors. For this
 question, your goal is to define a procedure that finds someone's ancestors,
 given a Dictionary that provides the parent relationships.
